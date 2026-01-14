@@ -3,7 +3,7 @@
 Essa é uma solução para o [Desafio Links de Perfil no Frontend Mentor](https://www.frontendmentor.io/challenges/social-links-profile-UG32l9m6dQ). Os desafios do Frontend Mentor ajudam você a aprimorar suas habilidades de programação por meio da criação de projetos realistas.
 
 <p align="center">
-    <img alt="Projeto Cartão de Pré-visualização de Blog" src=".github/finalResult.jpg">
+    <img alt="Projeto Links de Perfil" src=".github/finalResult.png">
 </p>
 
 ## 💻 Projeto
